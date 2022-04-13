@@ -1,4 +1,4 @@
-### Hi friend
+### Hi fren
 ### I am learning HTML, CSS and JS so that i can become a soy web dev 😄
 
 <!--
