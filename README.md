@@ -1,5 +1,5 @@
 ### Hi fren
-### I am learning HTML, CSS and JS so that i can become a soy web dev 😄
+### I hope you have a good day, Godbless.
 
 <!--
 **UserFooBar/UserFooBar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
